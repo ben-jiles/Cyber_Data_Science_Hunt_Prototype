@@ -2,6 +2,7 @@
 A cyber security Jupyter Notebook project demonstrating hypothesis testing, anomaly detection modeling, and customer-facing insights.
 
 This notebook uses simulated Air Force LAN dataset to show how to quickly analyze new data feeds, find hidden patterns, and turn them into automated detections.
+[Kaggle Sample Data](https://www.kaggle.com/datasets/sampadab17/network-intrusion-detection)
 
 The notebook utilizes:
 - pandas, numpy, seaborn, and scikit libraries
